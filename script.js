@@ -1,4 +1,6 @@
-//Day Trip Generator
+//Title: Day Trip Generator
+//Author: Richard Fleming
+
 function runDayTrip(){
     let destinationsArray = ["Myrtle Beach", "the State House", "Charleston", "Six Flags"];
     let restaurantArray = ["McDonald's", "Chilli's", "Wendy's", "KFC"];
